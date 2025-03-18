@@ -1,0 +1,6 @@
+*.log
+*.out
+*.o
+tmp/
+build/
+vendor/
